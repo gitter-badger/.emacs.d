@@ -1,5 +1,7 @@
 # My unreasonable Emacs config
 
+[![Join the chat at https://gitter.im/jbranso/.emacs.d](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jbranso/.emacs.d?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Not so long ago I forked Steve Purcell's emacs config.  You can find the original config here: https://github.com/purcell/emacs.d
 
 My emacs config is still structured like Steve Purcell's.  All of my code for my init.el is in my lisp/ folder.  This config uses
